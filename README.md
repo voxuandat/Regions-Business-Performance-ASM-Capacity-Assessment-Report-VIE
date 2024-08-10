@@ -14,3 +14,8 @@ Ban điều hành (BOD) muốn biết được hiệu quả kinh doanh của doa
 -	`Đánh giá ASM`: thống kê, phân tích và đánh giá mức độ hiệu quả của các nhân sự (ASM) theo các chỉ số tài chính và các chỉ số kinh doanh
 #### 4. Flowchart
 ![image](https://github.com/voxuandat/Regions-Business-Performance-ASM-Capacity-Assessment-Report-vietnamese/blob/main/Assets/flowchart.png?raw=true)
+
+## II.	CÁC BƯỚC THỰC HIỆN 
+1.	Tìm hiểu  
+Xem tại file <span style="color: blue;">Nghiệp vụ.xlsx</span> trên
+3.	Sử dụng Dbeaver nhập dữ liệu đầu vào Cơ sở dữ liệu
