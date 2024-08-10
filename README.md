@@ -21,7 +21,9 @@ Xem tại file `Nghiệp vụ.xlsx` trên
 2.	Sử dụng Dbeaver nhập dữ liệu đầu vào vào Cơ sở dữ liệu
 Ta có 3 bảng tương ứng
 - Bảng `fact_kpi_month_raw_data`
-
+![image](https://github.com/voxuandat/Regions-Business-Performance-ASM-Capacity-Assessment-Report-vietnamese/blob/main/Assets/fact_kpi_month_raw_data.JPG?raw=true)
 - Bảng `fact_txn_month_raw_data`
 
+![image](https://github.com/voxuandat/Regions-Business-Performance-ASM-Capacity-Assessment-Report-vietnamese/blob/main/Assets/fact_txn_month_raw_data.JPG?raw=true)
 - Bảng `kpi_asm_data`
+![image](https://github.com/voxuandat/Regions-Business-Performance-ASM-Capacity-Assessment-Report-vietnamese/blob/main/Assets/kpi_asm_data.JPG?raw=true)
