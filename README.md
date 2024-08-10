@@ -1,3 +1,12 @@
+
+## Mục Lục
+- [I. TỔNG QUAN](#i-tong-quan)
+- [II. CÁC BƯỚC THỰC HIỆN](#ii-cac-buoc-thuc-hien)
+- [III. TRỰC QUAN HOÁ VÀ PHÂN TÍCH DỮ LIỆU](#iii-truc-quan-hoa-va-phan-tich-du-lieu)
+- [IV. KẾT QUẢ CÁ NHÂN ĐẠT ĐƯỢC SAU PROJECT](#iv-ket-qua-ca-nhan-dat-duoc-sau-project)
+
+
+
 ## I. TỔNG QUAN
 #### 1.	Mục tiêu
 Ban điều hành (BOD) muốn biết được hiệu quả kinh doanh của doanh nghiệp (công ty tài chính) và các khu vực mạng lưới trên toàn quốc cũng như đánh giá năng lực của các nhân sự (ASM).
