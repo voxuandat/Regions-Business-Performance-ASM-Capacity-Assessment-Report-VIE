@@ -1,4 +1,4 @@
-## I.Tổng quan
+## I. Tổng quan
 #### 1.	Mục tiêu
 Ban điều hành (BOD) muốn biết được hiệu quả kinh doanh của doanh nghiệp (công ty tài chính) và các khu vực mạng lưới trên toàn quốc cũng như đánh giá năng lực của các nhân sự (ASM).
 #### 2.	Dữ liệu đầu vào
@@ -13,3 +13,4 @@ Ban điều hành (BOD) muốn biết được hiệu quả kinh doanh của doa
 -	Chi phí lũy kế năm: thống kê, phân tích tình hình các nguồn chi phí, phân bổ chi phí của các khu vực mạng lưới trên toàn quốc và đưa ra đánh giá về mức độ hiệu quả.
 -	Đánh giá ASM: thống kê, phân tích và đánh giá mức độ hiệu quả của các nhân sự (ASM) theo các chỉ số tài chính và các chỉ số kinh doanh
 #### 4. Flowchart
+![image](https://1drv.ms/i/c/7bf0fb35dcf828c6/EV8zcu2sxIZJrWMxPTwfMDQBeneYHlfG5cPRq26LiFfKJw?e=p8Tenm)
