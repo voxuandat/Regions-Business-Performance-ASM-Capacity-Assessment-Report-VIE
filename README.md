@@ -17,5 +17,11 @@ Ban điều hành (BOD) muốn biết được hiệu quả kinh doanh của doa
 
 ## II.	CÁC BƯỚC THỰC HIỆN 
 1.	Tìm hiểu  
-Xem tại file <span style="color: blue;">Nghiệp vụ.xlsx</span> trên
-3.	Sử dụng Dbeaver nhập dữ liệu đầu vào Cơ sở dữ liệu
+Xem tại file `Nghiệp vụ.xlsx` trên
+2.	Sử dụng Dbeaver nhập dữ liệu đầu vào vào Cơ sở dữ liệu
+Ta có 3 bảng tương ứng
+- Bảng `fact_kpi_month_raw_data`
+
+- Bảng `fact_txn_month_raw_data`
+
+- Bảng `kpi_asm_data`
