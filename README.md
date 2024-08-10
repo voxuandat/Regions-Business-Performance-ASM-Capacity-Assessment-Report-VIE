@@ -24,7 +24,7 @@ Ban điều hành (BOD) muốn biết được hiệu quả kinh doanh của doa
 #### 4. Flowchart
 ![image](https://github.com/voxuandat/Regions-Business-Performance-ASM-Capacity-Assessment-Report-vietnamese/blob/main/Assets/flowchart.png?raw=true)
 
-## II.	CÁC BƯỚC THỰC HIỆN
+## II. CÁC BƯỚC THỰC HIỆN
 #### 1.	Xây dựng bảng mô nghiệp vụ 
 Xem chi tiết tại file *Nghiệp vụ.xlsx* trên
 
@@ -70,7 +70,7 @@ Xem chi tiết tại file *Nghiệp vụ.xlsx* trên
 - Ghi nhận lỗi từ bảng log và kiểm tra dữ liệu bằng cách execute để test các trường hợp xảy ra
 - Xem chi tiết tại file *procedure* trên
 
-## III.	TRỰC QUAN HOÁ VÀ PHÂN TÍCH DỮ LIỆU
+## III. TRỰC QUAN HOÁ VÀ PHÂN TÍCH DỮ LIỆU
 Chi tiết tại Demo Online bằng PowerBI [link](https://app.powerbi.com/view?r=eyJrIjoiMDljNmJkMzEtZjk4NS00ZDljLThjM2EtNTEyNWEzOTllMzI2IiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D)
 
 ## IV. KẾT QUẢ CÁ NHÂN ĐẠT ĐƯỢC SAU PROJECT
