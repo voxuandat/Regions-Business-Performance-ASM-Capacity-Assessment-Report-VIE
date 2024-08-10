@@ -1,9 +1,9 @@
 
 ## Mục Lục
-- [I. TỔNG QUAN](#i-tong-quan)
-- [II. CÁC BƯỚC THỰC HIỆN](#ii-cac-buoc-thuc-hien)
-- [III. TRỰC QUAN HOÁ VÀ PHÂN TÍCH DỮ LIỆU](#iii-truc-quan-hoa-va-phan-tich-du-lieu)
-- [IV. KẾT QUẢ CÁ NHÂN ĐẠT ĐƯỢC SAU PROJECT](#iv-ket-qua-ca-nhan-dat-duoc-sau-project)
+- [I. TỔNG QUAN](#i-tổng-quan)
+- [II. CÁC BƯỚC THỰC HIỆN](#ii-các-bước-thực-hiện)
+- [III. TRỰC QUAN HOÁ VÀ PHÂN TÍCH DỮ LIỆU](#iii-trực-quan-hoá-và-phân-tích-dữ-liệu)
+- [IV. KẾT QUẢ CÁ NHÂN ĐẠT ĐƯỢC SAU PROJECT](#iv-kết-quả-cá-nhân-đạt-được-sau-project)
 
 
 
