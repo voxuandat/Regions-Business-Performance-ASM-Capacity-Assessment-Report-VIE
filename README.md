@@ -13,4 +13,4 @@ Ban điều hành (BOD) muốn biết được hiệu quả kinh doanh của doa
 -	Chi phí lũy kế năm: thống kê, phân tích tình hình các nguồn chi phí, phân bổ chi phí của các khu vực mạng lưới trên toàn quốc và đưa ra đánh giá về mức độ hiệu quả.
 -	Đánh giá ASM: thống kê, phân tích và đánh giá mức độ hiệu quả của các nhân sự (ASM) theo các chỉ số tài chính và các chỉ số kinh doanh
 #### 4. Flowchart
-![image](https://1drv.ms/i/c/7bf0fb35dcf828c6/EV8zcu2sxIZJrWMxPTwfMDQBeneYHlfG5cPRq26LiFfKJw?e=p8Tenm)
+![image]([https://1drv.ms/i/c/7bf0fb35dcf828c6/EV8zcu2sxIZJrWMxPTwfMDQBeneYHlfG5cPRq26LiFfKJw?e=p8Tenm](https://photos.onedrive.com/share/7BF0FB35DCF828C6!sed72335fc4ac4986ad63313d3c1f3034?cid=7BF0FB35DCF828C6&resId=7BF0FB35DCF828C6!sed72335fc4ac4986ad63313d3c1f3034&ithint=photo&e=p8Tenm&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83YmYwZmIzNWRjZjgyOGM2L0VWOHpjdTJzeElaSnJXTXhQVHdmTURRQmVuZVlIbGZHNWNQUnEyNkxpRmZLSnc_ZT1wOFRlbm0))
