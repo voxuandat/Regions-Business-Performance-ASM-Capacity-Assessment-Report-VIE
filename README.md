@@ -26,7 +26,7 @@ Ban điều hành (BOD) muốn biết được hiệu quả kinh doanh của doa
 
 ## II. CÁC BƯỚC THỰC HIỆN
 #### 1.	Xây dựng bảng mô nghiệp vụ 
-Xem chi tiết tại file *Nghiệp vụ.xlsx* trên
+Xem chi tiết tại file ***Nghiệp vụ.xlsx*** trên
 
 #### 2.	Sử dụng Dbeaver nhập dữ liệu đầu vào vào Cơ sở dữ liệu ta có các bảng fact tương ứng
 - Bảng `fact_kpi_month_raw_data`
@@ -65,10 +65,9 @@ Xem chi tiết tại file *Nghiệp vụ.xlsx* trên
   
 ![image](https://github.com/voxuandat/Regions-Business-Performance-ASM-Capacity-Assessment-Report-vietnamese/blob/main/Assets/log_tracking.jpg?raw=true)
 
-#### 4. Viết Stored Procedure
+#### 4. Viết Stored Procedure  (Xem chi tiết tại file *procedure.sql* trên)
 -	Viết procedure với tham số truyền vào là tháng báo cáo dạng ‘YYYYMM’ để đổ dữ liệu từ 3 nguồn dữ liệu đầu vào kết hợp các bảng dim, log_tracking được tạo vào bảng `bao_cao_kinh_doanh` và `danh_gia_kpi_asm`
 - Ghi nhận lỗi từ bảng log và kiểm tra dữ liệu bằng cách execute để test các trường hợp xảy ra
-- Xem chi tiết tại file *procedure* trên
 
 ## III. TRỰC QUAN HOÁ VÀ PHÂN TÍCH DỮ LIỆU
 Chi tiết tại Demo Online bằng PowerBI [link](https://app.powerbi.com/view?r=eyJrIjoiMDljNmJkMzEtZjk4NS00ZDljLThjM2EtNTEyNWEzOTllMzI2IiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D)
