@@ -37,7 +37,7 @@ Xem chi tiết tại file ***Nghiệp vụ.xlsx*** trên
 ![image](https://github.com/voxuandat/Regions-Business-Performance-ASM-Capacity-Assessment-Report-vietnamese/blob/main/Assets/fact_txn_month_raw_data.JPG?raw=true)
 - Bảng `kpi_asm_data`
   
-![image](https://github.com/voxuandat/Regions-Business-Performance-ASM-Capacity-Assessment-Report-vietnamese/blob/main/Assets/kpi_asm_data.JPG?raw=true)
+![image](https://github.com/voxuandat/Regions-Business-Performance-ASM-Capacity-Assessment-Report-vietnamese/blob/main/Assets/kpi_asm_data.png?raw=true)
 
 #### 3. Sử dụng PostgreSQL Data Definition Language (DDL) xây dựng các bảng dim, fact, log_tracking
 #### a.	Xây dựng các bảng dim:
