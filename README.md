@@ -66,12 +66,12 @@ Xem chi tiết tại file ***[Nghiệp vụ.xlsx](https://1drv.ms/x/c/7bf0fb35dc
   
 ![image](https://github.com/voxuandat/Regions-Business-Performance-ASM-Capacity-Assessment-Report-vietnamese/blob/main/Assets/log_tracking.jpg?raw=true)
 
-#### 4. Viết Stored Procedure  (Xem chi tiết tại file *[procedure.sql](https://github.com/voxuandat/Regions-Business-Performance-ASM-Capacity-Assessment-Report-vietnamese/blob/main/procedure.sql)* trên)
+#### 4. Sử dụng PLSQL Programming viết Stored Procedure  (Xem chi tiết tại file *[procedure.sql](https://github.com/voxuandat/Regions-Business-Performance-ASM-Capacity-Assessment-Report-vietnamese/blob/main/procedure.sql)* trên)
 -	Viết procedure với tham số truyền vào là tháng báo cáo dạng ‘YYYYMM’ để đổ dữ liệu từ 3 nguồn dữ liệu đầu vào kết hợp các bảng dim, log_tracking được tạo vào bảng `bao_cao_kinh_doanh` và `danh_gia_kpi_asm`
 - Ghi nhận lỗi từ bảng log và kiểm tra dữ liệu bằng cách execute để test các trường hợp xảy ra
 
 ## III. TRỰC QUAN HOÁ VÀ PHÂN TÍCH DỮ LIỆU
-Xem chi tiết tại Demo Online bằng PowerBI: [link](https://app.powerbi.com/view?r=eyJrIjoiMDljNmJkMzEtZjk4NS00ZDljLThjM2EtNTEyNWEzOTllMzI2IiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D)
+Xem chi tiết tại Embedded Demo bằng PowerBI: [link](https://app.powerbi.com/view?r=eyJrIjoiMDljNmJkMzEtZjk4NS00ZDljLThjM2EtNTEyNWEzOTllMzI2IiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D)
 #### 1.	Sử dụng Power BI kết nối với Cơ sở dữ liệu bằng cách sử dụng Direct Query
 #### 2.	Trực quan hoá & Phân tích hiệu quả hoạt động kinh doanh của các khu vực & đánh giá năng lực nhân sự (ASM) tại thời điểm tháng 3/ 2023
 - `BÁO CÁO TỔNG HỢP & BÁO CÁO XẾP HẠNG`: *(xem tại link Demo Online bằng PowerBI trên)*
