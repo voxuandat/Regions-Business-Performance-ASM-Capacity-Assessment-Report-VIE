@@ -71,10 +71,10 @@ Xem chi tiết tại file ***[Nghiệp vụ.xlsx](https://1drv.ms/x/c/7bf0fb35dc
 - Ghi nhận lỗi từ bảng log và kiểm tra dữ liệu bằng cách execute để test các trường hợp xảy ra
 
 ## III. TRỰC QUAN HOÁ VÀ PHÂN TÍCH DỮ LIỆU
-Xem chi tiết tại Embedded Demo bằng PowerBI: [link](https://app.powerbi.com/view?r=eyJrIjoiMDljNmJkMzEtZjk4NS00ZDljLThjM2EtNTEyNWEzOTllMzI2IiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D)
+Xem chi tiết tại Embedded Demo bằng PowerBI: [Here](https://app.powerbi.com/view?r=eyJrIjoiMDljNmJkMzEtZjk4NS00ZDljLThjM2EtNTEyNWEzOTllMzI2IiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D)
 #### 1.	Sử dụng Power BI kết nối với Cơ sở dữ liệu bằng cách sử dụng Direct Query
 #### 2.	Trực quan hoá & Phân tích hiệu quả hoạt động kinh doanh của các khu vực & đánh giá năng lực nhân sự (ASM) tại thời điểm tháng 3/ 2023
-- `BÁO CÁO TỔNG HỢP & BÁO CÁO XẾP HẠNG`: *(xem tại link Demo Online bằng PowerBI trên)*
+- `BÁO CÁO TỔNG HỢP & BÁO CÁO XẾP HẠNG`: *(xem tại Embedded Demo bằng PowerBI trên)*
 - `BÁO CÁO KINH DOANH`:
 
 ![image](https://github.com/voxuandat/Regions-Business-Performance-ASM-Capacity-Assessment-Report-vietnamese/blob/main/Assets/bao_cao_kinh_doanh_1.jpg?raw=true)
@@ -139,8 +139,9 @@ Trong top 10 ASM theo xếp hạng tổng, tuy Tỉ lệ trung bình lượng KH
 -	Các ASM khu vực Bắc Trung Bộ, Nam Trung Bộ quản lý tốt mạng lưới khu vực của họ, xem xét mở rộng đơn vị chi nhánh, mô hình kinh doanh các khu vực này.
 
 ## IV. KẾT QUẢ CÁ NHÂN ĐẠT ĐƯỢC SAU PROJECT
-- Sử dụng thành thạo hơn các tools như Dbeaver, PowerBI và các kỹ năng như SQL Programming,...
-- Có khả năng xử lý lượng dữ liệu lớn từ hàng triệu đến chục triệu records.
-- Tối ưu Cơ sở dữ liệu (Database) bằng cách đánh index, partition vào các bảng.
-- Học được các mô hình dữ liệu Dim-Fact, quản lý dữ liệu trong Data Warehouse.
-- Năm được kiến thức nghiệp vụ về Thẻ, Tài chính trong các công ty tài chính,...
+  Nắm chắc tư duy và cách xử lý một báo cáo phức tạp đúng chuẩn trình tự:
+-	Nắm chắc các thuật ngữ nghiệp vụ về Thẻ, Tài chính trong các công ty tài chính liên quan đến báo cáo -> Đặc tả được để xây dựng các bảng dim, fact phục vụ cho báo cáo và phân tích.
+-	Quản trị, lưu trữ, xử lý bộ dữ liệu lớn từ hàng triệu đến chục triệu dòng; tổ chức Mô hình quan hệ dữ liệu dim-fact (ERD) trên Database.
+-	Dùng SQL/PLSQL Programming để viết chương trình chạy tự động xử lý dữ liệu, đổ dữ liệu vào bảng đích, ghi nhận vào bảng log để debug sau này.
+-	Tối ưu câu truy vấn và hiệu suất của Database (bằng đánh index, partition,…)
+-	Kết nối với BI tools để trực quan hoá dữ liệu, tính toán các chỉ số và phân tích dữ liệu bằng tư duy, phù hợp mục tiêu và đối tượng báo cáo.
